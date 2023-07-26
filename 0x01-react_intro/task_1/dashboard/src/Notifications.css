@@ -1,14 +1,4 @@
-import React from 'react';
-import './Notifications.css';
-
-function notification() {
-    return (
-        <div className="Notifications">
-            <p>
-                Here is the list of notifications
-            </p>
-        </div>
-    )
+.Notifications {
+    border: 5px solid rgb(212, 63, 63);
+    padding: 2rem;
 }
-
-export default notification;
