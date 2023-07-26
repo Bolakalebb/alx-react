@@ -3,4 +3,4 @@
 ## Concepts
 For this project, we expect you to look at this concept:
 
-[React] (https://intranet.alxswe.com/concepts/547)
+(React) [https://intranet.alxswe.com/concepts/547]
